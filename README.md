@@ -1,7 +1,7 @@
 
 
 
-- 🔭 Graduando de ADS
+
 - 🌱 Estudando C++ and HTML & CSS
 
 <div align="center">
