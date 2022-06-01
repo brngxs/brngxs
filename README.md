@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estudando C++ and HTML & CSS
+
 
 <div align="center">
   <a href="https://github.com/brngxs">
