@@ -15,7 +15,7 @@
 
 <div align="center">  
 <a href="https://www.instagram.com/brngxs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black"</a>
-<a href="[https://www.linkedin.com/in/breno-guimaraes-serpa/](https://www.linkedin.com/in/breno-guimar%C3%A3es-serpa/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BvVqD2prJQT6T7NVLCaT%2FDA%3D%3D)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/breno-guimar%C3%A3es-serpa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div> 
  
 ### Main skills:
