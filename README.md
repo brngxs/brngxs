@@ -52,13 +52,13 @@
   <br>
   </div>
 
+  <br>
+
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,dart,js,vue,git,html,css,bootstrap,dart,ubuntu,vim" />
   </a>
 </p>
-
-<br>
 
 ##
 
@@ -79,4 +79,11 @@
   
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=29465B&height=120&section=footer"/>
+##
+
+</details>
+
+<br>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
